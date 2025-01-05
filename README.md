@@ -37,3 +37,7 @@ Questions: You can modify the questions and answers in the script.js file. Each 
 Styling: The style.css file allows you to customize the look and feel of the app, such as colors, button styles, and layout.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
